@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: LS-COM-00044
+Build-Jdk: 12.0.1
+Implementation-Title: monument
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: kr.liferecord
+Implementation-Vendor: LifeSemantics
+Implementation-URL: http://www.liferecord.kr/monument
+Created-By: Maven Integration for Eclipse
+

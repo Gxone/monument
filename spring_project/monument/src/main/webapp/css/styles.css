@@ -1,0 +1,116 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+html, body {
+    font-family: 'Noto Sans Korean', sans-serif;
+    height: 100%;
+}
+
+.wrapper {
+    width: 960px;
+    height: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.contents {
+    height: 65%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.header {
+    height: 15%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.nav {
+    background-color: #f9f9f9;
+    margin-bottom: 2em;
+    padding-left: 1em;
+    padding: 0.2em;
+}
+
+.navbar {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footer {
+    height: 20%;
+    margin-top: 5em;
+    margin-bottom: 5em;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #000;
+}
+
+.footer ul {
+    padding: 0%;
+}
+
+.footer div ul li {
+    display: inline;
+}
+
+.navbar ul li {
+    display: inline;
+}
+
+.sns_list {
+    display: inline;
+    margin-right: 0.5em;
+}
+
+.lang_list {
+    display: inline;
+    font-size: 18px;
+    vertical-align: super;
+}
+
+.txt_company {
+    clear: both;
+    font-size: 13px;
+}
+
+.txt_reserved {
+    text-align: right;
+}
+
+.txt_reserved strong{
+    margin-right: 0.5em;
+}
+
+.menu {
+    margin-right: 2em;
+    text-decoration: none;
+    font-size: 20px;
+    color: #000;
+}
+
+.menu:visited {
+    color: #000;
+}
+
+.menu:hover {
+    color: red;  
+    font-weight: bold;
+}
+
+.txt_bold {
+    font-weight: bold;
+}
+
+ul, li, ol {
+    list-style: none;
+}
+
+.add_right {
+    float: right;
+}
+
+.list01 {
+    clear: both;
+}
